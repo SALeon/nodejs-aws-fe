@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+In the project directory, you can run:
+You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
 
